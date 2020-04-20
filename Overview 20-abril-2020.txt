@@ -1,0 +1,21 @@
+COVID-19 websites
+
+https://www.worldometers.info/coronavirus/
+
+https://coronavirus.jhu.edu/data/mortality
+
+https://ourworldindata.org/coronavirus
+
+Tasks
+
+1) Design website 
+2) Define datasets -> links
+3) Retrieve data -> FLASK
+   *SQL
+   *API
+4) Clean and process datasets
+5) Create HTML file (at least three views)
+6) Maps and charts
+   ○ A custom “creative” D3.js project (i.e., a nonstandard graph or chart)
+   ○ A combination of web scraping and Leaflet or Plotly
+   ○ A dashboard page with multiple charts that update from the same data
